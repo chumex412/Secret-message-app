@@ -1,0 +1,10 @@
+.form-group input {
+  width: 100%;
+  padding: 1rem 1.5rem;
+  border: none;
+  border-bottom: 0.1rem solid var(--mute-color);
+} 
+
+.form-group input:focus {
+  outline: none;
+}
